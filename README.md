@@ -1,6 +1,6 @@
 # freecodecamp_arithmetic_formatter_project
 
-[Completion image of formatter .py](https://github.com/the-real-kodoninja/freecodecamp_arithmetic_formatter_project/blob/main/captureit_2-18-2025_at_13-04-26.png)
+![Completion image of formatter .py](https://github.com/the-real-kodoninja/freecodecamp_arithmetic_formatter_project/blob/main/captureit_2-18-2025_at_13-04-26.png)
 
 Build an Arithmetic Formatter Project
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
